@@ -1,0 +1,81 @@
+SPECIAL ISSUE
+
+Kenya Gazette Supplement No. 170 (Acts No. 17)
+REPUBLIC OF KENYA
+KENYA GAZETTE SUPPLEMENT – ACTS, 2025
+NAIROBI, 21st October, 2025
+
+CONTENT
+Act —
+The Computer Misuse and Cybercrimes (Amendment) Act, 2025 ........... 447
+
+THE COMPUTER MISUSE AND CYBERCRIMES (AMENDMENT) ACT, 2025
+
+No. 17 of 2025
+
+Date of Assent: 15th October, 2025
+Date of Commencement: 4th November, 2025
+
+AN ACT of Parliament to amend the Computer Misuse and Cybercrimes Act, Cap. 79C and for connected purposes
+
+ENACTED by the Parliament of Kenya, as follows—
+
+1. Short title
+
+This Act may be cited as the Computer Misuse and Cybercrimes (Amendment) Act, 2025.
+
+2. Amendment of section 2 of Cap. 79C
+
+Section 2 of the Computer Misuse and Cybercrimes Act (referred to as “the principal Act”) is amended—
+
+(a) in the definition of “access” by inserting the words “through a program or a device” immediately after the words “by a person”; and
+
+(b) by inserting the following new definitions in their proper alphabetical sequence—
+
+“asset” includes all property movable or immovable, physical or virtual and all estates, easements and rights whether equitable or legal in, over or out of property, choses-in-action, money or goodwill whether situated in Kenya or elsewhere;
+
+“computer misuse” means the unauthorized use, modification or access to a computer system, program or data;
+
+“cybercrime” means an offence committed through the use of information and communication technology to target networks, systems, data, websites or technology or to facilitate a crime;
+
+“identity theft” means the use of another person’s personal identification information including the name, identification number, SIM-card, bank card, bank account information, address, password or any other subscriber information;
+
+“terrorist act” has the meaning assigned to it under the Prevention of Terrorism Act (Cap. 59B); and
+
+“virtual account” means a digital account acquired through virtual representation.
+
+3. Amendment of section 6 of Cap. 79C
+
+Section 6(1) of the principal Act is amended by inserting the following new paragraph immediately after paragraph (j)—
+
+(ja) where it is proved that a website or application promotes unlawful activities, inappropriate sexual content of a minor, terrorism or religious extremism and cultism, issue a directive to render the website or application inaccessible.
+
+4. Amendment of section 27 of Cap. 79C
+
+Section 27(1) of the principal Act is amended by inserting the words “or is likely to cause that other person to commit suicide” immediately after the word “person” appearing in paragraph (b).
+
+5. Amendment of section 30 of Cap. 79C
+
+Section 30 of the principal Act is amended—
+
+(a) by inserting the words “or email or makes a call” immediately after the words “sends a message”; and
+
+(b) by inserting the words “or email or call” immediately after the words “recipient of the message.”
+
+6. Insertion of a new section 46A in Cap. 79C
+
+The principal Act is amended by inserting the following new section immediately after section 46—
+
+46A. Further court orders
+
+(1) Where a person has been convicted of an offence related to promotion of unlawful activities, inappropriate sexual content of a minor, terrorism, or religious extremism and cultism, and the person was using a computer system, website, or digital device in contravention of this Act, the court may—
+
+(a) order the person to remove the content or materials from the computer system, website, or digital device;
+(b) order the person to close or deactivate the computer system, website, or digital device; or
+(c) make such orders as the court may deem appropriate.
+
+(2) Notwithstanding subsection (1), where an authorised person believes that a computer system, website, or digital device is being used to promote unlawful activities, inappropriate sexual content of a minor, terrorism, or religious extremism and cultism, the authorised person may apply to court for—
+
+(a) an order for removal of the content or materials from the computer system, website, or digital device;
+(b) an order for closure or deactivation of the computer system, website, or digital device; or
+(c) such orders as may be necessary.

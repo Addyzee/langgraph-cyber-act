@@ -1,0 +1,14 @@
+[project]
+name = "cyber-act-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.0.2",
+    "langchain-chroma>=1.0.0",
+    "langchain-openai>=1.0.1",
+    "langchain-text-splitters>=1.0.0",
+    "langgraph>=1.0.1",
+    "pypdf>=6.1.3",
+]
